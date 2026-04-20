@@ -1,2 +1,7 @@
-# demo-dontics-odontologia-integral
-Demo web para DONTICS Odontología Integral — diseñada por eterlab.
+# DONTICS Odontología Integral
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
